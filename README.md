@@ -89,9 +89,12 @@ I'm Varshitha
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=varshitha-008&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha-008&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshitha-008&border_radius=0&theme=dark" alt="varshitha" />
-
 </p>
+
+<div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshitha-008&border_radius=0&theme=dark" alt="varshitha" height="139" />
+</div>
+
 <br>
 
 
