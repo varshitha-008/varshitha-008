@@ -86,7 +86,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 
-
+<hr>
 
 ---
 
