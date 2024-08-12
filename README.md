@@ -101,33 +101,4 @@ I'm Varshitha
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
-<h2><i>Top Repositories</i></h2>
 
-
-<p>
-    <a href="https://github.com/m-sehrawat/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Weather-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Translation-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-     <a href="https://github.com/m-sehrawat/Facebook-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Food-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    
-</p>
