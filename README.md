@@ -6,13 +6,32 @@ I'm Varshitha
 <!--     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"> -->
 </h1>
 
+  [<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;590DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+<hr>
+
+
+ #### 👨‍💻ABOUT ME:
+<h4 align="center">
+I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code 💡..</h4>
+<br/>
+
+
+ 
+- 🌍  I'm from Anantapur, Andhrapradesh.
+
+- 🔥  Visit my [Portfolio](https://portfolio-1-jbh2.onrender.com/) for more details.
+
+- ✉️  You can contact me at [varshithab.008@gmail.com](mailto:varshithab.008@gmail.com)
+
+
+<br />
+<hr>
+
 
 
 <!----------------------------------- About Section ------------------------------------>
 
-<h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
-</h3>
+
 
 
 <br>
