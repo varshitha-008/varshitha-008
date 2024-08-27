@@ -23,6 +23,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 - ✉️  You can contact me at [varshithab.008@gmail.com](mailto:varshithab.008@gmail.com)
 
+- 💼 Visit my Resume [Resume](https://drive.google.com/file/d/1YdW5Z1nTiqdY5R7CM3rXdiuxwnyRqbtZ/view?usp=sharing).
 
 <br />
 <hr>
